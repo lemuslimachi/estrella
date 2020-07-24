@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Mansalva', cursive;
+    color: darkmagenta;
+}
+h2 {
+    
+    font-family: inherit;
+    color: crimson;
+}
+p {
+    font-family: serif;
+    color: blue;
+}

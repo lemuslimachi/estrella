@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+th, td{
+    padding: 5px;
+    border: solid 1px red;
+}
+th {
+    background-color: #2000FF;
+    border-bottom: solid 5px #000000;
+}
+tr:hover td{
+    background-color: chartreuse;
+}
